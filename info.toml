@@ -225,6 +225,7 @@ have an ampersand for a reference since the second argument is a
 reference, take a look at the coercion chapter of the nomicon:
 https://doc.rust-lang.org/nomicon/coercions.html"""
 
+
 [[exercises]]
 name = "primitive_types5"
 path = "exercises/primitive_types/primitive_types5.rs"
